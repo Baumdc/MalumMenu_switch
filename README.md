@@ -1,6 +1,8 @@
 # Among Us Mod Toggle Script
 
-This Python script allows you to easily toggle a mod on and off for the game Among Us by moving mod-related files and folders to and from a backup directory.
+Go check out the creator of [MalumMenu](https://github.com/scp222thj/MalumMenu) [scp22thj](https://github.com/scp222thj) and his [website](https://scp222thj.dev): [scp222thj.dev](https://scp222thj.dev) 
+
+This Python script allows you to easily toggle [MalumMenu](https://github.com/scp222thj/MalumMenu) on and off for the game Among Us by moving mod-related files and folders to and from a backup directory.
 
 ## Features
 
