@@ -10,7 +10,7 @@ This Python script allows you to easily toggle a mod on and off for the game Amo
 
 ## Requirements
 
-- [Python](https://www.python.org/downloads/) 3
+- [Python 3](https://www.python.org/downloads/)
 
 ## Usage
 
